@@ -1,8 +1,11 @@
 # Privacy Policy — Gemfall
 
 **App:** Gemfall (Android package `com.puzzlygames.gemfall`)
+
 **Developer:** `Bamke Haretuno`
+
 **Contact:** `gemfallpuzzle@gmail.com`
+
 **Last updated:** `2026/08/27`
 
 Gemfall is a block puzzle game. There is no sign-up, no account and no login.
